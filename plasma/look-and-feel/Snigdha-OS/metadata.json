@@ -1,0 +1,33 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "m.eshanized@gmail.com",
+                "Name": "Eshan Roy"
+            }
+        ],
+        "Category": "",
+        "Description": "KDE Plasma Theme for Snigdha OS",
+        "Id": "com.github.eshanized.Snigdha-OS",
+        "License": "MIT",
+        "Name": "Snigdha-OS",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "1.0",
+        "Website": "https://github.com/Snigdha-OS/snigdhaos-kde-theme"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-KDE-fallbackPackage": "org.kde.breeze.desktop",
+    "X-Plasma-APIVersion": "2",
+    "X-KPackage-Dependencies": [
+        "kns://colorschemes.knsrc/api.kde-look.org/1325239",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1325241",
+        "kns://aurorae.knsrc/api.kde-look.org/1325238",
+        "kns://wallpaper.knsrc/api.kde-look.org/1309218",
+        "kns://sddmtheme.knsrc/api.kde-look.org/1325235",
+        "kns://icons.knsrc/api.kde-look.org/1279924",
+        "kns://xcursor.knsrc/api.kde-look.org/1365214"
+    ]
+}
