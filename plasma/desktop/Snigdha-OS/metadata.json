@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "m.eshanized@gmail.com",
+                "Name": "Eshan Roy"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [
+        ],
+        "Description": "Plasma Theme for Snigdha OS",
+        "EnabledByDefault": true,
+        "Id": "Snigdha-OS",
+        "License": "MIT",
+        "Name": "Snigdha-OS",
+        "Version": "1.0",
+        "Website": "https://github.com/Snigdha-OS/snigdhaos-kde-theme"
+    }
+}

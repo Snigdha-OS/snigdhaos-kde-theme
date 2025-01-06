@@ -1,0 +1,28 @@
+[Desktop Entry]
+Name=Snigdha-OS
+Comment=Plasma Theme For Snigdha OS
+
+X-KDE-PluginInfo-Author=Eshan Roy
+X-KDE-PluginInfo-Email=m.eshanized@gmail.com
+X-KDE-PluginInfo-Name=Snigdha-OS
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=https://github.com/Snigdha-OS/snigdhaos-kde-theme
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-EnabledByDefault=true
+
+[ContrastEffect]
+enabled=false
+contrast=0.2
+intensity=0.4
+saturation=1.7
+
+[Wallpaper]
+defaultWallpaperTheme=Snigdha-OS
+defaultFileSuffix=.png
+defaultWidth=2560
+defaultHeight=1440
+
+[AdaptiveTransparency]
+enabled=true
