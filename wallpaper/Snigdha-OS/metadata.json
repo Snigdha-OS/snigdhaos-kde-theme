@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "m.eshanized@gmail.com",
+                "Name": "Eshan Roy"
+            }
+        ],
+        "Id": "Snigdha-OS",
+        "License": "MIT",
+        "Name": "Snigdha-OS"
+    }
+}
